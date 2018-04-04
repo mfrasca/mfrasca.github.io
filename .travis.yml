@@ -9,5 +9,9 @@ script: "lektor build"
 deploy:
   provider: script
   script: "lektor deploy ghpages"
+<<<<<<< HEAD
   on:
     branch: gh-pages  
+=======
+  
+>>>>>>> parent of f6651a7... Synchronized build
