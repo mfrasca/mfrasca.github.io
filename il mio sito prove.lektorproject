@@ -2,5 +2,5 @@
 name = il mio sito prove
 
 [servers.ghpages]
-target = ghpages://mfrasca/mfrasca.github.io
+target = ghpages+https://mfrasca/mfrasca.github.io
 
